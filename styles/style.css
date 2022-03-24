@@ -1,0 +1,278 @@
+html body {
+  margin: 0;
+  padding: 0;
+}
+
+.main-body {
+  width: 1920px;
+  height: auto;
+  margin-top: 120px;
+  margin-bottom: 147.35px;
+}
+
+.main-body-title {
+  margin-left: 250px;
+
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 22px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.container {
+  width: 1420px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-top: 35.21px;
+  display: flex;
+}
+
+.container-blog {
+  width: 1080px;
+  margin-right: 30px;
+  height: auto;
+}
+
+.container-blog-big {
+  display: flex;
+}
+
+.container-blog-big img {
+  width: 525px;
+  height: 260px;
+}
+
+.article-1 {
+  margin-right: 30px;
+  width: 525px;
+}
+
+.article-1-txt {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+}
+
+.article-1-date {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 14px;
+  color: #07999C;
+}
+
+.article-2-txt {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+  height: 78px;
+}
+
+.article-2-date {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 14px;
+  color: #07999C;
+}
+
+.article-2 {
+  width: 525px;
+}
+
+.container-blog-small {
+  display: flex;
+}
+
+.article-3 {
+  width: 340px;
+  margin-right: 30px;
+}
+
+.article-3-txt {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.article-4 {
+  width: 340px;
+  margin-right: 30px;
+}
+
+.article-4-txt {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.article-5 {
+  width: 340px;
+}
+
+.article-5-txt {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.container-blog-small img {
+  width: 340px;
+  height: 189px;
+}
+
+.article-3-txt {
+  height: 99px;
+}
+
+.article-4-txt {
+  height: 99px;
+}
+
+.article-5-txt {
+  height: 99px;
+}
+
+.article-3-date {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 14px;
+  color: #07999C;
+}
+
+.article-4-date {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 14px;
+  color: #07999C;
+}
+
+.article-5-date {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 14px;
+  color: #07999C;
+}
+
+.btn {
+  margin-top: 42px;
+  width: 186.62px;
+  height: 47.81px;
+  background: #07999C;
+  border-radius: 23.9036px;
+}
+
+.btn p {
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.container-events {
+  width: 310px;
+  height: auto;
+}
+
+.container-events-title {
+  width: 310px;
+  height: 19px;
+
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 22px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.container-events-info {
+  display: flex;
+  margin-top: 29.16px;
+}
+
+.container-events-info-line {
+  width: 6px;
+  height: 59px;
+  background: #07999C;
+  margin-right: 15px;
+}
+
+.container-events-info-text {
+  width: 289px;
+  height: 72px;
+
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #000000;
+}
+
+.container-events-article-txt {
+  width: 311px;
+  height: 67px;
+  margin-top: 16px;
+
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px; 
+  color: #000000;
+}
+
+.container-events-article-date {
+  width: 311px;
+  height: 21px;
+  margin-top: 9px;
+
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  color: #07999C;
+}
+
+.container-events-article-line {
+  width: 310px;
+  border: 1px solid #E5E5E5;
+  margin-top: 14px;
+}
+
+.space {
+  margin-bottom: 13px;
+}

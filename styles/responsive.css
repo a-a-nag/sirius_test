@@ -1,0 +1,296 @@
+@media screen and (max-width: 375px) {
+	html body {
+		margin: 0;
+		padding: 0;
+	}
+
+	.main-body {
+  width: 375px;
+  height: auto;
+  margin-top: 64px;
+  margin-bottom: 113.03px;
+}
+
+.main-body-title {
+  margin-left: 23.42px;
+
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.container {
+  width: 375px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 31.53px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container-blog {
+  width: 100%;
+  margin-right: 0px;
+  height: auto;
+}
+
+.container-blog-big {
+  display: flex;
+  flex-direction: column;
+}
+
+.container-blog-big img {
+/*  width: 100%;
+  height: 100%;*/
+  width: 302.79px;
+  height: 208px;
+}
+
+.article-1 {
+  margin-right: 0px;
+  width: 302.79px;
+}
+
+.article-1-txt {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #000000;
+  height: 94.35px;
+}
+
+.article-1-date {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  color: #07999C;
+}
+
+.article-2-txt {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #000000;
+  height: 94.35px;
+}
+
+.article-2-date {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  color: #07999C;
+}
+
+.article-2 {
+  width: 302.79px; 
+}
+
+.container-blog-small {
+  display: flex;
+  flex-direction: column;
+}
+
+.article-3 {
+  width: 302.79px;
+  margin-right: 0px;
+}
+
+.article-3-txt {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #000000;
+  height: 94.35px;
+}
+
+.article-4 {
+  width: 302.79px;
+  margin-right: 0px;
+}
+
+.article-4-txt {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #000000;
+  height: 94.35px;
+}
+
+.article-5 {
+  width: 302.79px;
+}
+
+.article-5-txt {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #000000;
+  height: 94.35px;
+}
+
+.container-blog-small img {
+  width: 302.79px;
+  height: 208px;
+}
+
+.article-3-txt {
+ /* height: 94.35px;*/
+ height: auto;
+}
+
+.article-4-txt {
+ /*height: 94.35px;*/
+ height: auto;
+}
+
+.article-5-txt {
+  /*height: 94.35px;*/
+  height: auto;
+}
+
+.article-3-date {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  color: #07999C;
+}
+
+.article-4-date {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  color: #07999C;
+}
+
+.article-5-date {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  color: #07999C;
+}
+
+.btn {
+  margin-top: 43.69px;
+  margin-left: 60px;
+  width: 195.42px;
+  height: 44.67px;
+  background: #07999C;
+  border-radius: 23.9036px;
+}
+
+.btn p {
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 16px;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.container-events {
+  width: 375px;
+  height: auto;
+}
+
+.container-events-title {
+	margin-top: 100.24px;
+  width: 310px;
+  height: 19px;
+
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 22px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+
+.container-events-info {
+  display: flex;
+  margin-top: 54.16px;
+}
+
+.container-events-info-line {
+  width: 6px;
+  height: 59px;
+  background: #07999C;
+  margin-right: 15px;
+}
+
+.container-events-info-text {
+  width: 289px;
+  height: 72px;
+
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #000000;
+}
+
+.container-events-article-txt {
+  width: 311px;
+  height: 67px;
+  margin-top: 16px;
+
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px; 
+  color: #000000;
+}
+
+.container-events-article-date {
+  width: 311px;
+  height: 21px;
+  margin-top: 9px;
+
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #07999C;
+}
+
+.container-events-article-line {
+  width: 310px;
+  border: 1px solid #E5E5E5;
+  margin-top: 14px;
+}
+
+.space {
+  margin-bottom: 0px;
+}
+
+}
